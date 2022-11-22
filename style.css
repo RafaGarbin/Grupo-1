@@ -4,10 +4,10 @@ body {
 
 h1 {text-align: center;color: #900;} 
 
-p {font-size: 35px;text-align: center;}
+p {font-size: 35px;text-align: left;}
 
 #missao{font-size: 45px;}
 em strong {
 	color: black;
 }
-#hotdog{width: 30%;}
+#hotdog{width: 35%;}
